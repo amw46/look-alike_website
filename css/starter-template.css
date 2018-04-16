@@ -1,7 +1,23 @@
-body {
-  padding-top: 5rem;
+html,body {
+  height:100vh;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+
+.heightvh {
+  height: 100vh;
+}
+
+.half{
+  background-image: url("http://via.placeholder.com/550x360/");
+  background-size: cover;
+}
+
+/*
+.half2 {
+  background-image: url("http://via.placeholder.com/225x180/");
+  background-size: cover;
+}
+*/
